@@ -1,0 +1,6 @@
+[submodule "cellorganizer/docker-cellorganizer"]
+	path = cellorganizer/docker-cellorganizer
+	url = https://github.com/icaoberg/docker-cellorganizer.git
+[submodule "cellorganizer/singularity-cellorganizer"]
+	path = cellorganizer/singularity-cellorganizer
+	url = https://github.com/icaoberg/singularity-cellorganizer.git
